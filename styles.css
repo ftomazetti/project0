@@ -1,0 +1,29 @@
+h1 {
+    color: #0a1aab;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+}
+h3 {
+    color: #990f0f;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+
+p {
+    color: #000000;
+}
+
+div {
+    background-color: cadetblue;
+    width: 50%;
+    height: 70%;
+    align-items: center;
+    margin: 10px;
+    padding: 20px;
+    border: 3px solid rgba(154, 154, 235, 0.753);
+    
+    
+}
