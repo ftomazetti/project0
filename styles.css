@@ -59,3 +59,15 @@ table, th, td, tr {
     border-collapse: collapse;
     padding: 15px;
   }
+
+@media screen and (min-width: 300px) {
+    body {
+      background-color: rgb(75, 75, 52);
+    }
+  }
+
+  @media screen and (max-width: 992px) {
+    body {
+      background-color: rgb(127, 127, 245);
+    }
+  }
