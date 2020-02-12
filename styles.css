@@ -25,7 +25,7 @@ p {
 }
 
 div {
-    background-color: rgba(235, 240, 243, 0.842);
+    background-color: rgba(255, 255, 255, 0.842);
     width: 50%;
     height: 70%;
     align-items: center;
@@ -40,7 +40,7 @@ div {
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bold;
-    font-size: 30px;
+    font-size: 20px;
 }
 #middle{
     color: #990f0f;
