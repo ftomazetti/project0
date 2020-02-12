@@ -68,6 +68,6 @@ table, th, td, tr {
 
   @media screen and (max-width: 992px) {
     body {
-      background-color: rgb(127, 127, 245);
+      background-color: rgb(255, 255, 255);
     }
   }
